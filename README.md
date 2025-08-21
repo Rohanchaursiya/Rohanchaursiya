@@ -117,16 +117,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanchaursiya&theme=tokyonight&hide_border=true&background=00000000" alt="Rohan's GitHub Streak" />
 
 </div>
-
----
-
-### ❤️ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/Rohanchaursiya" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
-  </a>
-  <a href="https://ko-fi.com/Rohanchaursiya" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" height="50" width="210">
-  </a>
-</p>
